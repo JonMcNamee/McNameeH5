@@ -58,7 +58,7 @@ namespace McNameeLab2
             String lbltopic= "my cat Adolin.";
             //to display topic as string
             lbldata.Text = "My topic is " + lbltopic + "\nHis nickname is Addy and he is 4 years old. He is very attention hungry." +
-                " Whenever my alarm goes off in the morning it is immediately followed up by him jumping on to my chest for cuddles and pets.";
+                "He's been on a bit of a diet lately as the vet was calling him 'generous', so he's been a bit grumpy lately.";
             //Text that appears when data is clicked
             lbldata.Visible= true;
             //Makes data text visible
